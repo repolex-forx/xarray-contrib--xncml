@@ -1,0 +1,11 @@
+{
+  "org": "xarray-contrib",
+  "repo": "xncml",
+  "versions": [
+    {
+      "commit": "de521d9a300dfc4814f8adb5c91a8c4ab52231aa",
+      "tag": "",
+      "parsed_at": "2026-10-16T03:24:08.661263+00:00"
+    }
+  ]
+}
